@@ -1,1 +1,3 @@
-# Project 2 TicTacToe
+# TicTacToe
+
+A tictactoe console game made using C++.
